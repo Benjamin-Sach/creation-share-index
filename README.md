@@ -41,8 +41,8 @@ The framework is intended as a starting point for further discussion, applicatio
 Possible future developments include:
 
 - CSI for **AI-generated text**
-- CSI for **video**
-- CSI for **music**
+- CSI for **AI-generated video**
+- CSI for **AI-generated music**
 - CSI for other hybrid creation processes
 - automated CSI scoring tools
 
