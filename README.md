@@ -4,7 +4,7 @@ Creation Share Index - An analysis tool for assessing the human contribution in 
 
 The translated article explaining the Creation Share Index can be found here.
 
-📄[Read the paper (PDF)](creation-share-index.pdf)
+📄 [Read the paper (PDF)](creation-share-index.pdf)
 
 ---
 
